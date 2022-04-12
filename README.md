@@ -16,7 +16,7 @@ pokemona.
 
 Hooks:
 pokemonName Aktualizuje dane wejsciowe uzytkownika
-pokemon aktualizoje własności pokemona
+pokemon aktualizoje własności pokemona.
 
 
 

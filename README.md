@@ -1,5 +1,5 @@
 
-Aplikacja Pokedex prosta aplikacja do podawania informacji o pokemnonach dla jego nazwy za pomocą React.js.
+Aplikacja Pokedex aplikacja do podawania informacji o pokemnonach dla jego nazwy za pomocą React.js.
 
 Wymagane pakiety węzłów "axios" npm install axios
 
